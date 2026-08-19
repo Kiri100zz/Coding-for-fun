@@ -12,3 +12,9 @@ console.log(`${user1} always kiss ${user3}`);
 console.log(`${user3} alwasy ask ${user2}`);
 console.log(`${user4} always the best`);
 
+let coco = function (){
+    let age = 18;
+    console.log(`${username2} is ${age} years old.`)
+}
+
+console.log("Kiri");
